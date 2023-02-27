@@ -1,7 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Tags - Tag - The Security Smack Blog</title>
+        <title>Tags - Tag - Security Smack</title>
         <link>http://securitysmack.com/tags/</link>
-        <description>Tags - Tag - The Security Smack Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="http://securitysmack.com/tags/" rel="self" type="application/rss+xml" /></channel>
+        <description>Tags - Tag - Security Smack</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>kyle@securitysmack.com (Kyle Walters)</managingEditor>
+            <webMaster>kyle@securitysmack.com (Kyle Walters)</webMaster><atom:link href="http://securitysmack.com/tags/" rel="self" type="application/rss+xml" /></channel>
 </rss>
